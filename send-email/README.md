@@ -11,7 +11,7 @@ EMAIL_SENDER = 'xxxyyy@163.com'  # 邮件发送者
 EMAIL_RECEIVER = "a@amail.com;b@bmail.com"   # 用";" 英文分号分隔
 EMAIL_SERVER_HOST = 'smtp.163.com'  # 邮件服务 host
 EMAIL_SERVER_USER = 'xxxyyy'  # 邮件服务登录用户名
-EMAIL_SERVER_PASSWORD = 'FKSUKHZLPAINYEXC'  # 邮箱登录授权码
+EMAIL_SERVER_PASSWORD = 'FK?????XC'  # 邮箱登录授权码
 ```
 
 ## 发送邮件
